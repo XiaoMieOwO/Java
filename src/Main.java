@@ -8,6 +8,8 @@ public class Main {
 
         for (int i = 1; i <= 5; i++) {
 System.out.printf("%d ", i);
+//test connect push
+            System.out.println("再次进行测试");
         }
     }
 }
